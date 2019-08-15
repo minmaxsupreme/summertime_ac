@@ -1,0 +1,15 @@
+{
+  "name": "summertime_ac",
+  "version": "1.0.0",
+  "description": "Automating Summer Session AC Schedule at UH Manoa",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Delp",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1",
+    "xlsx": "^0.14.4"
+  }
+}

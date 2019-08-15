@@ -11,5 +11,13 @@
   "dependencies": {
     "underscore": "^1.9.1",
     "xlsx": "^0.14.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minmaxsupreme/summertime_ac.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minmaxsupreme/summertime_ac/issues"
+  },
+  "homepage": "https://github.com/minmaxsupreme/summertime_ac#readme"
 }

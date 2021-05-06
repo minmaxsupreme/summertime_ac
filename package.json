@@ -9,7 +9,7 @@
   "author": "Justin Delp",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "xlsx": "^0.14.4"
   },
   "repository": {
